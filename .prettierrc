@@ -1,0 +1,10 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "jsxSingleQuote": true,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "parser":"vue",
+  "plugins": ["@morioh/v-lightbox"],
+  "quoteProps": "preserve"
+}
